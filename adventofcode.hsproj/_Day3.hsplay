@@ -1,0 +1,9 @@
+-- Haskell Playground 1.0
+-- tests
+distFromCenter 1 == 0
+distFromCenter 12 == 3
+distFromCenter 23 == 2
+distFromCenter 1024 == 31
+
+-- exec
+distFromCenter 312051
