@@ -1,4 +1,5 @@
 -- http://adventofcode.com/2017/day/3
+-- Spiral Memory 
 
 module Day3 where
 import Data.List

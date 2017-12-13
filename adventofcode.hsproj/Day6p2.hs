@@ -1,4 +1,5 @@
 -- http://adventofcode.com/2017/day/6
+-- Memory Reallocation
 
 module Day6p2 where
 import Data.List

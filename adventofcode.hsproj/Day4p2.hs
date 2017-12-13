@@ -1,4 +1,5 @@
 -- http://adventofcode.com/2017/day/4
+-- High-Entropy Passphrases
 
 module Day4p2 where
 import Data.List

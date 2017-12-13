@@ -1,4 +1,5 @@
 -- http://adventofcode.com/2017/day/2
+-- Corruption Checksum
 
 module Day2p2 where 
 import Data.List -- for find

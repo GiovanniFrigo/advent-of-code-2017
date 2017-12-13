@@ -1,4 +1,6 @@
 -- http://adventofcode.com/2017/day/1
+-- Inverse Captcha
+
 module Day1p2 where
 
 toIntegerArray :: Integer -> [Integer]

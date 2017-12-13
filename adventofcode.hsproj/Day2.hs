@@ -1,4 +1,6 @@
 -- http://adventofcode.com/2017/day/2
+-- Corruption Checksum
+
 module Day2 where 
   
 toInt :: String -> Int
