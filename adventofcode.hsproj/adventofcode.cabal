@@ -16,6 +16,7 @@ Executable adventofcode
       containers -any
   other-modules:
       Day3
+      Day9p2
       Day1
       Day4p2
       Day8p2
@@ -26,5 +27,6 @@ Executable adventofcode
       Day1p2
       Day6
       Day2p2
+      Day9
       Day6p2
       Day5
