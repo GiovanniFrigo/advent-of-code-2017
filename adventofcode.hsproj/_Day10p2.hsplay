@@ -1,0 +1,9 @@
+-- Haskell Playground 1.0
+-- tests
+"a2582a3a0e66e6e86e3812dcb672a272" == solve ""
+"33efeb34ea91902bb2f59c9920caa6cd" == solve "AoC 2017"
+"3efbe78a8d82f29979031a4aa0b16a9d" == solve "1,2,3"
+"63960835bcdc130f0b66d7ff4f6a5a8e" == solve "1,2,4" 
+
+-- exec
+solve "106,118,236,1,130,0,235,254,59,205,2,87,129,25,255,118"

@@ -13,6 +13,7 @@ Executable adventofcode
       regex-pcre -any,
       base -any,
       regex-base -any,
+      split -any,
       containers -any
   other-modules:
       Day3
@@ -22,11 +23,13 @@ Executable adventofcode
       Day8p2
       Day4
       Day5p2
-      Day8
       Day2
+      Day8
       Day1p2
       Day6
       Day2p2
       Day9
+      Day10p2
       Day6p2
+      Day10
       Day5
