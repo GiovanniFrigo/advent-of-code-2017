@@ -75,5 +75,8 @@ hash input = condenseHash $ sparseHash input
 hashToString :: [Int] -> String
 hashToString hash = concat $ map toHex hash
 
+knotHash :: String -> String
+knotHash string = hashToString (hash string)
+
 solve :: String -> String
-solve input = hashToString $ hash input
+solve input = knotHash input
