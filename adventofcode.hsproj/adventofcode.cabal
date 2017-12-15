@@ -16,21 +16,23 @@ Executable adventofcode
       split -any,
       containers -any
   other-modules:
-      Day3
+      Day5
       Day9p2
       Day1
       Day4p2
       Day8p2
+      Day15
       Day4
-      Day5p2
       Day14
+      Day5p2
       Day2
       Day8
+      Day15p2
       Day1p2
-      Day6
       Day2p2
-      Day9
+      Day6
       Day10p2
+      Day9
       Day6p2
       Day10
-      Day5
+      Day3

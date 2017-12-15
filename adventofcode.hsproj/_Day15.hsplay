@@ -1,0 +1,6 @@
+-- Haskell Playground 1.0
+-- tests
+588 == solve 65 8921 40000000
+
+-- exec
+solve 116 299 40000000
